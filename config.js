@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Best time to work, huh?',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '11b33cd5e7c69c776ca7b12cde660a1f', // Write here your API Key
